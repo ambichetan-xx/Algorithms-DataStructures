@@ -1,6 +1,6 @@
 package com.sorting;
 
-public class mergeSorting {
+public class MergeSort {
 
 	public static void mergeSort(int[] array, int start, int end) {
 
